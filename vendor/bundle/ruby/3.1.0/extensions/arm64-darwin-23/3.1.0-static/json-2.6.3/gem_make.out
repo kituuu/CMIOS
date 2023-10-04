@@ -1,0 +1,13 @@
+current directory: /Users/kituuu/WebDevProjects/test/AwesomeProject/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+/Users/kituuu/.rubies/ruby-3.1.3/bin/ruby -I /Users/kituuu/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kituuu/WebDevProjects/test/AwesomeProject/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230823-1451-i47s1l sitelibdir\=./.gem.20230823-1451-i47s1l clean
+
+current directory: /Users/kituuu/WebDevProjects/test/AwesomeProject/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230823-1451-i47s1l sitelibdir\=./.gem.20230823-1451-i47s1l
+make: Nothing to be done for `all'.
+
+current directory: /Users/kituuu/WebDevProjects/test/AwesomeProject/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230823-1451-i47s1l sitelibdir\=./.gem.20230823-1451-i47s1l install
